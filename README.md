@@ -1,7 +1,7 @@
 <h1><a href="https://ru.wikipedia.org/wiki/Зима">Зима</a></h1>
 <p>Зима это одно из четырех времен года, между осенью и весной, зимой очень холодно - температура ниже 0 градусов по цельсию, также выпадает снег.</p>
 <h1> <img src="https://avatars.mds.yandex.net/i?id=aeed44978f3cf790ae46e64143aa1fc46312d66b-10918338-images-thumbs&n=13"><img src="https://avatars.mds.yandex.net/i?id=cf8aa4ba985d2c9fb204474d9d22353bbe9bb7cc-10895071-images-thumbs&n=13"> </h1>
-<h2><a href="index.html" style="text-decoration:underline">Зимние развлечения</a></h2>
+<h2>Зимние развлечения</h2>
 <p> Зимние развлечения бывают разные:</p>
 <ol><il>1. Можно покататься на <a href="https://ru.wikipedia.org/wiki/Сани">санках</a>, <a href="https://ru.wikipedia.org/wiki/Лыжи">лыжах</a>, <a href="https://ru.wikipedia.org/wiki/Ледянка">ледянках</a>.</il></ol>
 <ol><il>2. Провести зимнюю <a href="https://ru.wikipedia.org/wiki/Конный_туризм">прогулку на лошадях</a></il></ol>
