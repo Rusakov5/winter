@@ -1,14 +1,1 @@
-<h1 align="center"><a href="https://ru.wikipedia.org/wiki/Зима">Зима</a></h1>
-<p>Зима это очень красивое время года это одно из четырех времен года, между осенью и весной, зимой очень холодно - температура ниже 0 градусов по цельсию, также выпадает снег.</p>
-<h1> <img src="https://avatars.mds.yandex.net/i?id=51b66d1946dd337389ca9cdaf9678670f4b74d7b-10139465-images-thumbs&n=13"><img src="https://avatars.mds.yandex.net/i?id=8559aad4e9254fe410a2133f6eb8614ad2642e0f-10899323-images-thumbs&n=13"> </h1>
-<h2 align="center">Зимние развлечения</h2> 
-<p> Зимой выпадает много снега, люди используют особенности зимы чтобы развлекаться, зимние развлечения бывают разные:</p>
-<ol><il>1. Можно покататься на <a href="https://ru.wikipedia.org/wiki/Сани">санках</a>, <a href="https://ru.wikipedia.org/wiki/Лыжи">лыжах</a>, <a href="https://ru.wikipedia.org/wiki/Ледянка">ледянках</a>.</il></ol>
-<ol><il>2. Провести зимнюю <a href="https://ru.wikipedia.org/wiki/Конный_туризм">прогулку на лошадях</a></il></ol>
-<ol><il>3. <a href="https://ru.wikipedia.org/wiki/Зимнее_плавание">Искупаться в снегу</a></il></ol>
-<ol><il>4. Покататься в <a href="https://ru.wikipedia.org/wiki/Ездовые_собаки">собачьей упряжке</a></il></ol>
-<ol><il>5. Слепить <a href="https://ru.wikipedia.org/wiki/Снеговик">снеговика</a></il></ol>
-<h1><img src="https://yandex-images.clstorage.net/o9jSr9384/ec3a6ea9g/fj4sKkMKfGm74nvEdkaGP_Ya3gpCUVo8gjl_LbdaOKkixoHE9XFyUvy0L4mSFlPc4HBjpWmRlQeVr-9Sf8yHCGJuMHdyI2A01r9rtSZmiiv-b6sGBiAyLfZQdmGeFi0BxlNECByFt781VIKozjsKrcwNaqjAKdVa-Zp2up5AdkTWfvjGf6Lt2SvaZtQCHpI75meCej4kQp0evf5Ec5Mt1YqH1Kwovb_DwSwWaNLL-pF9jeZEaIBBnsGWgqba2JbMptLknqeqHXUfLu6wHlIWE_pD6taaSEq5mg2ixMMXJfW--6SgxB2rL7E8-sB6j0K1OXE2zAg8BUoV7g7SFtwOeN5edHL_BrWRn0bmyHqiZitmk7aibtQ-DS7FJjBjd21pcgP0PCxd5yPlFPL85g8C4aGh9nRsvHW6eWaKkn4splQ2ujhGf1IVERPGcnCuyo43ZitWvvKETsFCQVYUu-Nl7R7T1LTY-VPPFWDulIJDSrUBcX7UFOBFxg16hl42GAIQLlbo9tNSUfE76tawDp4Wp4qT_tbCrH4txjGqzPMfubViw4jUQHmry5VsDpDat0J1oVV2uCwA7fYJmjLa0twCZEr2sOJnKtUNU36KrDL6EvfKn9JyUjwqcR5dukxfszHBEm-IUCSJy__JsNJUXqeGpf3tYpgQbLUO6QKqElbcNsh-9hRCZ-ZlmYNqIihOCtaX5s8ylm4wLk2idXKYp0shvf6bVIjsoTOroZT-eA5nerG1IS4UqOjhjpl63hIyPKYcznb8aq8atV0T6iY4CtrWd25_2iZKIII1tlHq6FeThTG2A5hA6GXXK33A5hQKa8LhfRGqSIz0bVaFltoeugTO_Oq2mBpXgj1FN-ou2K7Kpp8ia8Jq3oh60UJdDgAnS8E9cvucGPx1w9eNQGaA2o9G9XWtvrgwYEEazeJuStJ4wnxyIqRq2yoRYa_W7tDe1ubz5jdq_spIthUq9Q4QO394"><img src="https://avatars.mds.yandex.net/i?id=d3674df078494e6c99774c5052ada84ccd208ebd-8804196-images-thumbs&n=13"></h1>
-<h2 align="center"> Самый главный праздник зимы</h2> 
-<p>самым главным праздником зимы является <a href="https://ru.wikipedia.org/wiki/Новый_год">новый год</a>, это главный календарный праздник, наступающий в момент перехода с последнего дня текущего года в первый день следующего года, омечается многими народами в соответствии с принятым календарём.
-традиционно новый год в России отмечается так:</p>
+
